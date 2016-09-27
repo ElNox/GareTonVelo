@@ -9,3 +9,5 @@ show the type of bicycle_parking (stands, wall_loops and so on), their capacity 
 Incomplete parkings (no type or no capacity) are highlighted in red.
 
 A running map for Nantes (France) can be seen here : http://dev.cartocite.fr/GareTonVelo/
+
+ElNox
